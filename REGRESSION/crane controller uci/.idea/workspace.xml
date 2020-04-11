@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23fedf99-d560-4643-be2f-5c8bc96f4aa1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1rNXScg4JmhZpL7ZkU3E4vqOb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ML_A-Z/Part 8 - Deep Learning" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Random_Vacuum_Agent_2_8">
+    <configuration name="Random_Vacuum_Agent_2_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI_Norvig_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../AI_Norvig_book/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../AI_Norvig_book/chapter2/Random_Vacuum_Agent_2_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hc_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section 25 - Hierarchical Clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../ML_A-Z/Part 4 - Clustering/Section 25 - Hierarchical Clustering" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../ML_A-Z/Part 4 - Clustering/Section 25 - Hierarchical Clustering/hc_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solve_clusterig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="perfume" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Clustering/perfume" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Clustering/perfume/solve_clusterig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solve_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AAAI_paper_cluster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Clustering/AAAI_paper_cluster" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Clustering/AAAI_paper_cluster/solve_clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in utils" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="AI_Norvig_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../AI_Norvig_book/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../AI_Norvig_book/chapter2/utils.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Random_Vacuum_Agent_2_8" />
+        <item itemvalue="Python tests.Doctests in utils" />
+        <item itemvalue="Python.hc_practice" />
+        <item itemvalue="Python.solve_clusterig" />
+        <item itemvalue="Python.solve_clustering" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23fedf99-d560-4643-be2f-5c8bc96f4aa1" name="Default Changelist" comment="" />
+      <created>1585913901570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585913901570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="200" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586147465068">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="382" y="200" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1586147465068" />
+    <state x="167" y="125" width="1099" height="543" key="DiffContextDialog" timestamp="1586008108451">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="167" y="125" width="1099" height="543" key="DiffContextDialog/67.27.1299.741@67.27.1299.741" timestamp="1586008108451" />
+    <state x="498" y="153" width="426" height="486" key="FileChooserDialogImpl" timestamp="1586546123197">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="498" y="153" width="426" height="486" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586546123197" />
+    <state width="1297" height="266" key="GridCell.Tab.0.bottom" timestamp="1586546219551">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1297" height="266" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586546219551" />
+    <state width="1299" height="349" key="GridCell.Tab.0.bottom/67.27.2323.741@67.27.2323.741" timestamp="1586153079571" />
+    <state width="1297" height="266" key="GridCell.Tab.0.center" timestamp="1586546219550">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1297" height="266" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586546219550" />
+    <state width="1299" height="349" key="GridCell.Tab.0.center/67.27.2323.741@67.27.2323.741" timestamp="1586153079570" />
+    <state width="1297" height="266" key="GridCell.Tab.0.left" timestamp="1586546219550">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1297" height="266" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586546219550" />
+    <state width="1299" height="349" key="GridCell.Tab.0.left/67.27.2323.741@67.27.2323.741" timestamp="1586153079570" />
+    <state width="1297" height="266" key="GridCell.Tab.0.right" timestamp="1586546219550">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1297" height="266" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586546219550" />
+    <state width="1299" height="349" key="GridCell.Tab.0.right/67.27.2323.741@67.27.2323.741" timestamp="1586153079570" />
+    <state x="204" y="31" key="SettingsEditor" timestamp="1586546095146">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="204" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1586546095146" />
+    <state width="531" height="452" key="SwitcherDM" timestamp="1586151746308">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="531" height="452" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1586151746308" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1586529824951">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1586529824951" />
+    <state x="67" y="27" width="704" height="741" key="find.popup" timestamp="1585985059800">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="704" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1585985059800" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

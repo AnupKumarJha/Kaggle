@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Clustering/AAAI_paper_cluster/.idea/AAAI_paper_cluster.iml" filepath="$PROJECT_DIR$/../Clustering/AAAI_paper_cluster/.idea/AAAI_paper_cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../AI_Norvig_book/.idea/AI_Norvig_book.iml" filepath="$PROJECT_DIR$/../../AI_Norvig_book/.idea/AI_Norvig_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Insurance regression/.idea/Insurance regression.iml" filepath="$PROJECT_DIR$/../Insurance regression/.idea/Insurance regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Real_estate/.idea/Real_estate.iml" filepath="$PROJECT_DIR$/../Real_estate/.idea/Real_estate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Real_estate_model/.idea/Real_estate_model.iml" filepath="$PROJECT_DIR$/../Real_estate_model/.idea/Real_estate_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ML_A-Z/Part 4 - Clustering/Section 24 - K-Means Clustering/.idea/Section 24 - K-Means Clustering.iml" filepath="$PROJECT_DIR$/../../ML_A-Z/Part 4 - Clustering/Section 24 - K-Means Clustering/.idea/Section 24 - K-Means Clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ML_A-Z/Part 4 - Clustering/Section 25 - Hierarchical Clustering/.idea/Section 25 - Hierarchical Clustering.iml" filepath="$PROJECT_DIR$/../../ML_A-Z/Part 4 - Clustering/Section 25 - Hierarchical Clustering/.idea/Section 25 - Hierarchical Clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crane controller uci.iml" filepath="$PROJECT_DIR$/.idea/crane controller uci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Clustering/perfume/.idea/perfume.iml" filepath="$PROJECT_DIR$/../Clustering/perfume/.idea/perfume.iml" />
+    </modules>
+  </component>
+</project>
