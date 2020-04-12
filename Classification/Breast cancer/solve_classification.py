@@ -273,7 +273,7 @@ print("X_test descreption")
 
 print("##############################start applying classification model ###################################")
 
-#Using Logistic Regression Algorithm to the Training Set
+#Logistic Regression Algorithm
 from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression(random_state = 0)
 classifier.fit(X_train, y_train)
@@ -281,13 +281,15 @@ y_pred = classifier.predict(X_test)
 #using confusion matrix to see the result
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
-# print("logistic confusion matrixm")
-# print(cm)
+print("1.logistic confusion matrixm")
+print(cm)
 # accuracy score
 from sklearn.metrics import  accuracy_score
-print("1.accuracy_score logistic regression",accuracy_score(y_test, y_pred))
+print("accuracy_score logistic regression",accuracy_score(y_test, y_pred))
+print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
 
-#Using KNeighborsClassifier Method of neighbors class to use Nearest Neighbor algorithm
+
+#Nearest Neighbor algorithm
 from sklearn.neighbors import KNeighborsClassifier
 classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
 classifier.fit(X_train, y_train)
@@ -295,14 +297,15 @@ y_pred = classifier.predict(X_test)
 #using confusion matrix to see the result
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
-# print("KNeighborsClassifier confusion matrix")
-# print(cm)
+print("2.KNeighborsClassifier confusion matrix")
+print(cm)
 # accuracy score
 from sklearn.metrics import  accuracy_score
-print("2.accuracy_score of KNeighbors algorithm",accuracy_score(y_test, y_pred))
+print("accuracy_score of KNeighbors algorithm",accuracy_score(y_test, y_pred))
+print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
 
 
-#Using SVC method of svm class to use Support Vector Machine Algorithm
+#Support Vector Machine Algorithm
 from sklearn.svm import SVC
 classifier = SVC(kernel = 'linear', random_state = 0)
 classifier.fit(X_train, y_train)
@@ -310,29 +313,32 @@ y_pred = classifier.predict(X_test)
 #using confusion matrix to see the result
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
-# print("KNeighborsClassifier confusion matrix")
-# print(cm)
+print("3.Support Vector Machine Algorithm confusion matrix")
+print(cm)
 # accuracy score
 from sklearn.metrics import  accuracy_score
 print("3.accuracy_score of Support Vector Machine Algorithm",accuracy_score(y_test, y_pred))
+print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
 
 
-#kernal svc
+
+#Kernel-Support Vector Machine Algorithm
 classifier = SVC(kernel = 'rbf', random_state = 0)
 classifier.fit(X_train, y_train)
 y_pred = classifier.predict(X_test)
 #using confusion matrix to see the result
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
-# print("KNeighborsClassifier confusion matrix")
-# print(cm)
+print("4.KERNEL SVC confusion matrix")
+print(cm)
 # accuracy score
 from sklearn.metrics import  accuracy_score
 print("4.accuracy_score of kernal svc",accuracy_score(y_test, y_pred))
+print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
 
 
 
-#Using GaussianNB method of naïve_bayes class to use Naïve Bayes Algorithm
+#Naïve Bayes Algorithm
 from sklearn.naive_bayes import GaussianNB
 classifier = GaussianNB()
 classifier.fit(X_train, y_train)
@@ -340,24 +346,42 @@ y_pred = classifier.predict(X_test)
 #using confusion matrix to see the result
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
-# print("KNeighborsClassifier confusion matrix")
-# print(cm)
+print("5.Naïve Bayes Algorithm confusion matrix")
+print(cm)
 # accuracy score
 from sklearn.metrics import  accuracy_score
 print("accuracy_score of Naïve Bayes Algorithm",accuracy_score(y_test, y_pred))
+print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
 
 
-
-# #Using DecisionTreeClassifier of tree class to use Decision Tree Algorithm
-# from sklearn.tree import DecisionTreeClassifier
-# classifier = DecisionTreeClassifier(criterion = 'entropy', random_state = 0)
+#Decision Tree Algorithm
+from sklearn.tree import DecisionTreeClassifier
+classifier = DecisionTreeClassifier(criterion = 'entropy', random_state = 0)
 classifier.fit(X_train, y_train)
 y_pred = classifier.predict(X_test)
 #using confusion matrix to see the result
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
-# print("KNeighborsClassifier confusion matrix")
-# print(cm)
+print("6.Decision Tree Algorithm confusion matrix")
+print(cm)
 # accuracy score
 from sklearn.metrics import  accuracy_score
 print("accuracy_score of Decision Tree Algorithm",accuracy_score(y_test, y_pred))
+print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
+
+
+
+# Random Forest Classifier
+from sklearn.ensemble import RandomForestClassifier
+classifier = RandomForestClassifier(n_estimators = 10, criterion = 'entropy', random_state = 0)
+classifier.fit(X_train, y_train)
+y_pred = classifier.predict(X_test)
+#using confusion matrix to see the result
+from sklearn.metrics import confusion_matrix
+cm = confusion_matrix(y_test, y_pred)
+print("7.RandomForestClassifier confusion matrix")
+print(cm)
+# accuracy score
+from sklearn.metrics import  accuracy_score
+print("accuracy_score of random forest classifier",accuracy_score(y_test, y_pred))
+print("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%")
